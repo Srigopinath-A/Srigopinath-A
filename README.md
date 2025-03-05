@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on automating workflows and integrating secure OAuth2 authentication solutions.
+- 🌱 I’m currently learning more about advanced **Azure**, **Ansible**, and **Docker**.
+- 👯 I’m looking to collaborate on projects involving **Spring Boot**, **React**, and **MySQL/MongoDB**.
+- 🤔 I’m looking for help with improving my **OAuth2** and **DevOps** skills.
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **OAuth2**, **Automation**, and **Cloud Solutions**.
+- 📫 How to reach me: [Your Email or LinkedIn]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to make workflows smoother!
 -->
+
+🔧 **Skills & Technologies**:
+- 💻 **Languages**: Java, Core Java, Hibernate
+- ⚙️ **Frameworks & Tools**: Spring Boot, React (Basics)
+- 💾 **Databases**: MySQL, MongoDB
+- 🌐 **Version Control**: GitHub
+- ☁️ **Cloud & DevOps**: Azure, Ansible, Docker (Basics)
+- 🖥️ **Web Development**: HTML, CSS
+- 🔐 **Security**: OAuth2 Authentication
+
+🔄 **Job Focus**: Automating tasks, enhancing workflows, and integrating systems to improve productivity.
