@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to make workflows smoother!
 -->
 
-🛠 **Tech Stack**  
-**Languages**: Java, Core Java, Python, JavaScript, C++  
-**Frameworks & Libraries**: Spring Boot, React (Basics), Node.js, Bootstrap  
-**Databases**: MySQL, MongoDB  
-**Tools**: Git, GitHub, Visual Studio Code  
-**Cloud & DevOps**: Azure, Docker, Ansible  
-**Web Technologies**: HTML5, CSS3, OAuth2 Authentication  
+🔧 **Skills & Technologies**:
+- 💻 **Languages**: Java, Core Java, Hibernate
+- ⚙️ **Frameworks & Tools**: Spring Boot, React (Basics)
+- 💾 **Databases**: MySQL, MongoDB
+- 🌐 **Version Control**: GitHub
+- ☁️ **Cloud & DevOps**: Azure, Ansible, Docker (Basics)
+- 🖥️ **Web Development**: HTML, CSS
+- 🔐 **Security**: OAuth2 Authentication
 
 🔄 **Job Focus**: Automating tasks, enhancing workflows, and integrating systems to improve productivity.
-
-📊 **My Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srigopinath-A&layout=compact&theme=dark)
