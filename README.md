@@ -2,54 +2,28 @@
 
 <!--
 **Srigopinath-A/Srigopinath-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on automating workflows and integrating secure OAuth2 authentication solutions.
+- 🌱 I’m currently learning more about advanced **Azure**, **Ansible**, and **Docker**.
+- 👯 I’m looking to collaborate on projects involving **Spring Boot**, **React**, and **MySQL/MongoDB**.
+- 🤔 I’m looking for help with improving my **OAuth2** and **DevOps** skills.
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **OAuth2**, **Automation**, and **Cloud Solutions**.
+- 📫 How to reach me: sgopinath1930@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to make workflows smoother!
 -->
 
-### 👨💻 About Me
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+🛠 **Tech Stack**  
+**Languages**: Java, Core Java, Python, JavaScript, C++  
+**Frameworks & Libraries**: Spring Boot, React (Basics), Node.js, Bootstrap  
+**Databases**: MySQL, MongoDB  
+**Tools**: Git, GitHub, Visual Studio Code  
+**Cloud & DevOps**: Azure, Docker, Ansible  
+**Web Technologies**: HTML5, CSS3, OAuth2 Authentication  
 
-- 🔭 **Currently Working On**:  
-  ![Automation](https://img.shields.io/badge/-Automation-FF6C37?style=flat-square) ![OAuth2](https://img.shields.io/badge/-OAuth2-EB5424?style=flat-square)
-- 🌱 **Learning**:  
-  ![Advanced Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-- 💬 **Ask Me About**:  
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
+🔄 **Job Focus**: Automating tasks, enhancing workflows, and integrating systems to improve productivity.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-| ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-
-**Frameworks & Libraries**  
-| ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-
-**Databases**  
-| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-
-**Tools & DevOps**  
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-
-**Cloud & Web**  
-| ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
----
-
-### 🔄 Job Focus
-![Automation](https://img.shields.io/badge/-Automation-FF6C37?style=flat-square)
-![Workflow Optimization](https://img.shields.io/badge/-Workflow_Optimization-4A90E2?style=flat-square)
-![System Integration](https://img.shields.io/badge/-System_Integration-7C4DFF?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Srigopinath-A&theme=dark&hide_border=true)
+📊 **My Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srigopinath-A&layout=compact&theme=dark)
-
----
-
-📫 **Reach Me**: sgopinath1930@gmail.com || 
-⚡ **Fun Fact**: I automate tasks to make coffee time longer! ☕
