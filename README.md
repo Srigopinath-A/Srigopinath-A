@@ -49,10 +49,10 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Srigopinath-A&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srigopinath-A&layout=compact&theme=dark)
 
 ---
 
-📫 **Reach Me**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+📫 **Reach Me**: sgopinath1930@gmail.com 
 ⚡ **Fun Fact**: I automate tasks to make coffee time longer! ☕
