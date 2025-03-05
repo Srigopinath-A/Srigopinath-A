@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💾 **Databases**: MySQL, MongoDB
 - 🌐 **Version Control**: GitHub
 - ☁️ **Cloud & DevOps**: Azure, Ansible, Docker (Basics)
-- 🖥️ **Web Development**: HTML, CSS
+- 🖥️ **Web Development**: HTML, CSS, React JS
 - 🔐 **Security**: OAuth2 Authentication
 
 🔄 **Job Focus**: Automating tasks, enhancing workflows, and integrating systems to improve productivity.
