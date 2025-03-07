@@ -1,34 +1,27 @@
 ## Hi there 👋
 
-🔧 **Skills & Technologies**
+<!--
+**Srigopinath-A/Srigopinath-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+Here are some ideas to get you started:
 
-### ⚙️ Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- 🔭 I’m currently working on automating workflows and integrating secure OAuth2 authentication solutions.
+- 🌱 I’m currently learning more about advanced **Azure**, **Ansible**, and **Docker**.
+- 👯 I’m looking to collaborate on projects involving **Spring Boot**, **React**, and **MySQL/MongoDB**.
+- 🤔 I’m looking for help with improving my **OAuth2** and **DevOps** skills.
+- 💬 Ask me about **Java**, **Spring Boot**, **React**, **OAuth2**, **Automation**, and **Cloud Solutions**.
+- 📫 How to reach me: sgopinath1930@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and automating repetitive tasks to make workflows smoother!
+-->
 
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🌐 Version Control
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-
-### 🖥️ Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🔐 Security
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=oauth&logoColor=white)
+🔧 **Skills & Technologies**:
+- 💻 **Languages**: Java, Core Java, Hibernate
+- ⚙️ **Frameworks & Tools**: Spring Boot, React (Basics)
+- 💾 **Databases**: MySQL, MongoDB
+- 🌐 **Version Control**: GitHub
+- ☁️ **Cloud & DevOps**: Azure, Ansible, Docker (Basics)
+- 🖥️ **Web Development**: HTML, CSS
+- 🔐 **Security**: OAuth2 Authentication
 
 🔄 **Job Focus**: Automating tasks, enhancing workflows, and integrating systems to improve productivity.
-
-<!-- Rest of your existing content -->
