@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤖 &nbsp; Developer Who likes to Design.
-- 🎓 &nbsp; Studying BTech IT(2024) at Sri Venkateswara College of Engineering, Chennai.
+- 🎓 &nbsp; Completed BTech IT(2024) at Sri Venkateswara College of Engineering, Chennai.
 
 ### 🛠 &nbsp;Tech Stack
 
