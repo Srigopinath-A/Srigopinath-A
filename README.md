@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring my interests over computers and internet.
-- 🎓 &nbsp; Studying BTech IT(2024) at Government College of Technology, Coimbatore.
+- 🎓 &nbsp; Studying BTech IT(2024) at Sri Venkateswara College of Engineering, Chennai.
 - :tv: &nbsp; Also prefers Linux over Windows (other than for games)
 
 ### 🛠 &nbsp;Tech Stack
