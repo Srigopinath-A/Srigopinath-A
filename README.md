@@ -4,9 +4,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring my interests over computers and internet.
+- 🤖 &nbsp; Developer Who likes to Design.
 - 🎓 &nbsp; Studying BTech IT(2024) at Sri Venkateswara College of Engineering, Chennai.
-- :tv: &nbsp; Also prefers Linux over Windows (other than for games)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,8 +27,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/Srigopinath-A">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skiblue3&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Srigopinath-A&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigopinath-A&show_icons=true&theme=radical&bg_color=000000&text_color=ffffff&icon_color=8A2BE2&title_color=8A2BE2" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Srigopinath-A&theme=radical&bg_color=000000&text_color=ffffff&icon_color=8A2BE2&title_color=8A2BE2&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
