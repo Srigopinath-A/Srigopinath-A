@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## My Stats
-<p Style = "text-align : center" >
+<p style = "text-align : center" >
   <a href="https://github.com/Srigopinath-A">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srigopinath-A&show_icons=true&theme=radical&bg_color=000000&text_color=ffffff&icon_color=8A2BE2&title_color=8A2BE2" /> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Srigopinath-A&theme=radical&bg_color=000000&text_color=ffffff&icon_color=8A2BE2&title_color=8A2BE2&layout=compact&exclude_lang=java+r" />
