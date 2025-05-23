@@ -30,6 +30,8 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microservice](https://img.shields.io/badge/-Microservice-FF6F00?style=flat-square&logo=microgenetics&logoColor=white)
+![Eureka](https://img.shields.io/badge/-Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## My Stats
 <p style="text-align: center;" >
